@@ -1,4 +1,4 @@
-# README - Advanced Grep Automation for Bug Bounty Hunting
+# README - Basic Grep Automation for Bug Bounty Hunting
 
 This Python script automates running various **grep** commands on a target directory or file to help Bug Bounty Hunters find potential vulnerabilities and sensitive information, such as hardcoded API keys, credentials, and insecure configurations. It outputs the results in a clean, formatted HTML report.
 
