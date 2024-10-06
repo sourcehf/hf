@@ -75,7 +75,7 @@ def generate_table(title, data):
     table += "</table>\n"
     return table
 
-# fain function to generate the HTML report
+# main function to generate the HTML report
 def generate_html_report(target_dir, output_file):
     print(f"[+] Running grep commands on {target_dir} and generating report...")
     grep_results = run_grep_commands(target_dir)
